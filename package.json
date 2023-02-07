@@ -1,0 +1,26 @@
+{
+  "name": "gulplegado",
+  "version": "1.0.0",
+  "description": "gulp legado",
+  "main": "index.js",
+  "author": "LuciLua",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglifycss": "^1.1.0",
+    "node-sass": "^8.0.0",
+    "sass": "^1.58.0",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "@types/gulp": "^4.0.10"
+  }
+}
